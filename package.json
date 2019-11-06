@@ -1,0 +1,20 @@
+{
+  "name": "gettextPOC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.6.10"
+  },
+  "scripts": {
+    "watch": "webpack --watch"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.0",
+    "babel-loader": "^8.0.6",
+    "vue-loader": "^15.7.2",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
